@@ -52,5 +52,5 @@ Moderate
 
 - What would you change in the exercise and/or process?  
 I liked the exercise overall. Some hints on expected level of validation and test code coverage would have been
-helpful. Also, any expectation for API versioning and security would he helpful. Currently, I assumed versioning and
-security are not a requirement.
+helpful. Also, any expectation for API versioning and security would have been helpful. Currently, I assumed versioning and
+security are not required.
