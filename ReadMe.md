@@ -37,20 +37,3 @@ There is also a swagger-ui page for user friendly listing of the REST resources:
 http://localhost:8080/swagger-ui.html
 
 
-# Comments
-- The time the exercise took (after dev environment is set up).  
-4 hours
-
-- Exercise Difficulty: Easy, Moderate, Difficult, Very Difficult.   
-Moderate
-
-- How did you feel about the exercise itself? (1 lowest, 10 highest—awesome way to assess coding ability).    
-10
-
-- How do you feel about coding an exercise as a step in the interview process?  (1 lowest, 10 highest—awesome way to assess coding ability).  
-10
-
-- What would you change in the exercise and/or process?  
-I liked the exercise overall. Some hints on expected level of validation and test code coverage would have been
-helpful. Also, any expectation for API versioning and security would have been helpful. Currently, I assumed versioning and
-security are not required.
